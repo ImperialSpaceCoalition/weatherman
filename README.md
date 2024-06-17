@@ -16,7 +16,7 @@ This is a weather dashboard that provides current and 5-day weather forecasts fo
 3. Click on a city in the search history to view its weather again.
 
 ## Screenshots
-![Weather Dashboard Screenshot](https://drive.google.com/file/d/179fAmJXQQZlx8eYBmprKVnIsO4ZTv0Ee/view?usp=sharing)
+![Weather Dashboard Screenshot](https://drive.google.com/uc?export=view&id=179fAmJXQQZlx8eYBmprKVnIsO4ZTv0Ee)
 
 ## Deployment
 Use the index.html file to interact with the application
