@@ -16,11 +16,10 @@ This is a weather dashboard that provides current and 5-day weather forecasts fo
 3. Click on a city in the search history to view its weather again.
 
 ## Screenshots
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](https://drive.google.com/file/d/179fAmJXQQZlx8eYBmprKVnIsO4ZTv0Ee/view?usp=sharing)
 
 ## Deployment
-The application is deployed at: [Live URL](https://yourusername.github.io/weather-dashboard)
-
+Use the index.html file to interact with the application
 ## Repository
-The code is available at: [GitHub Repository](https://github.com/yourusername/weather-dashboard)
+The code is available at: [GitHub Repository](https://github.com/ImperialSpaceCoalition/weatherman)
 

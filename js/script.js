@@ -1,4 +1,4 @@
-const apiKey = 'fce48c16dc3ad0cb8aed83e976a215aa'; // Replace with your actual API key
+const apiKey = 'fce48c16dc3ad0cb8aed83e976a215aa'; 
 
 document.getElementById('search-form').addEventListener('submit', function(event) {
     event.preventDefault();
